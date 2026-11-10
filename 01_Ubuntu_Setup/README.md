@@ -11,7 +11,6 @@
 ---
 
 ## 1. Ubuntu Installation and Version Checking
-## 1. Ubuntu Installation and Version Checking
 
 ### 1.1 Introduction to Ubuntu
 
@@ -82,7 +81,6 @@ The following system configuration was observed:
 
 
 ## 2. Additional Packages Installation
-## 2. Additional Packages Installation
 
 Before installing the open-source VLSI tools, essential development packages and build utilities were installed in Ubuntu. These packages provide the compilers, build automation and parsing utilities required for compiling and configuring the tools from source.
 
@@ -152,7 +150,6 @@ All the above development utilities were checked successfully using their respec
 <img width="1221" height="782" alt="packages" src="https://github.com/user-attachments/assets/bd3e1467-a482-4296-8bad-370a3e81d626" />
 
 
-## 3. VLSI Tools Installation
 ## 3. VLSI Tools Installation
 
 ### Introduction
@@ -329,8 +326,6 @@ All five tools were verified successfully.
 **Figure 3: Combined verification of installed VLSI tools – Magic, Netgen, Xschem, Ngspice and Xterm.**
 <img width="1546" height="761" alt="VLSI TOOLS" src="https://github.com/user-attachments/assets/77a50c1b-53f6-43cc-b3f5-6278d59d1f22" />
 
-
-## 4. Git Cloning – Open_PDK - SKY130A
 ## 4. Git Cloning – Open_PDK and SKY130A
 
 ### 4.1 Introduction to SKY130 PDK
