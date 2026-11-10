@@ -1,15 +1,19 @@
+
 # 01. Ubuntu Environment Setup
 
-## 1. Introduction
+## Index
 
-Overview of the Ubuntu environment used for CMOS physical verification.
+1. [Ubuntu Installation and Version Checking](#1-ubuntu-installation-and-version-checking)
+2. [Additional Packages Installation](#2-additional-packages-installation)
+3. [VLSI Tools Installation](#3-vlsi-tools-installation)
+4. [Git Cloning – Open_PDK and SKY130A](#4-git-cloning--open_pdk-and-sky130a)
 
-## 2. Ubuntu Version Checking
+---
 
-## 3. Git Repository Cloning
+## 1. Ubuntu Installation and Version Checking
 
-## 4. Package Installation
+## 2. Additional Packages Installation
 
-## 5. Open-Source Tools Installation
+## 3. VLSI Tools Installation
 
-## 6. Verification and Results
+## 4. Git Cloning – Open_PDK and SKY130A
