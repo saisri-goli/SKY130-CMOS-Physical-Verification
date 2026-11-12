@@ -135,7 +135,7 @@ Through this project, I gained practical experience in:
 
 ## Acknowledgement
 
-This project was carried out as part of the **Sri Krishiv VSD training program**, with the objective of gaining practical exposure to open-source VLSI design and physical verification workflows.
+This project was carried out as part of the **VSD training program**, with the objective of gaining practical exposure to open-source VLSI design and physical verification workflows.
 
 ---
 
